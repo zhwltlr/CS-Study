@@ -23,4 +23,4 @@
   | 2주차 | 컴퓨터구조 | Chapter4 ~ Chapter8   |
   | 3주차 | 운영체제   | Chapter9 ~ Chapter10  |
   | 4주차 | 운영체제   | Chapter11 ~ Chapter13 |
-  | 2주차 | 운영체제   | Chapter14 ~ Chapter15 |
+  | 5주차 | 운영체제   | Chapter14 ~ Chapter15 |

@@ -21,6 +21,10 @@
   | ----- | ---------- | --------------------- |
   | 1주차 | 컴퓨터구조 | Chapter1 ~ Chapter3   |
   | 2주차 | 컴퓨터구조 | Chapter4 ~ Chapter8   |
-  | 3주차 | 운영체제   | Chapter9 ~ Chapter10  |
-  | 4주차 | 운영체제   | Chapter11 ~ Chapter13 |
-  | 5주차 | 운영체제   | Chapter14 ~ Chapter15 |
+  | 3주차 | 운영체제   | Chapter9 ~ Chapter11  |
+  | 4주차 | 운영체제   | Chapter12 ~ Chapter15 |
+  | 5주차 | 네트워크   | Chapter1 ~ Chapter    |
+  | 6주차 | 네트워크   | Chapter ~ Chapter     |
+  | 7주차 | 네트워크   | Chapter ~ Chapter     |
+  | 8주차 | 네트워크   | Chapter ~ Chapter     |
+  | 9주차 | 네트워크   | Chapter ~ Chapter     |
